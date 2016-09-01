@@ -1,0 +1,172 @@
+[
+  {
+    "id": 0,
+    "date": "April 1990 – Dec. 1994",
+    "city": "Barnstead, N.H.",
+    "lat": 43.3847042,
+    "long": -71.2695774,
+    "fov": 90,
+    "heading": 243.11,
+    "pitch": -0.76
+  },
+  {
+    "id": 1,
+    "date": "Jan. 1994 – Aug. 2008",
+    "city": "Chichester, N.H.",
+    "lat": 43.2270223,
+    "long": -71.4466663,
+    "fov": 50,
+    "heading": 123.04,
+    "pitch": -1
+  },
+  {
+    "id": 2,
+    "date": "Sept. 2008 – May 2009",
+    "city": "Burlington, V.T.",
+    "lat": 44.4807239,
+    "long": -73.2025156,
+    "fov": 70,
+    "heading": 331.18,
+    "pitch": -0.76
+  },
+  {
+    "id": 3,
+    "date": "June 2008 – Aug. 2008",
+    "city": "Chichester, N.H.",
+    "lat": 43.2270223,
+    "long": -71.4466663,
+    "fov": 50,
+    "heading": 123.04,
+    "pitch": -1
+  },
+  {
+    "id": 4,
+    "date": "Sept. 2009 – May 2010",
+    "city": "Durham, N.H.",
+    "lat": 43.1361406,
+    "long": -70.9236562,
+    "fov": 75,
+    "heading": 298.96,
+    "pitch": -1
+  },
+  {
+    "id": 5,
+    "date": "June 2009 – Aug. 2010",
+    "city": "Chichester, N.H.",
+    "lat": 43.2270223,
+    "long": -71.4466663,
+    "fov": 50,
+    "heading": 123.04,
+    "pitch": -1
+  },
+  {
+    "id": 6,
+    "date": "Sept. 2010 – Dec. 2010",
+    "city": "Durham, N.H.",
+    "lat": 43.144535,
+    "long": -70.9369611,
+    "fov": 80,
+    "heading": 242.37,
+    "pitch": 0
+  },
+  {
+    "id": 7,
+    "date": "Jan. 2011 – May 2011",
+    "city": "Madrid, Spain",
+    "lat": 40.4566062,
+    "long": -3.7061811,
+    "fov": 120,
+    "heading": 183.15,
+    "pitch": 5
+  },
+  {
+    "id": 8,
+    "date": "June 2011 – Aug. 2011",
+    "city": "Chichester, N.H.",
+    "lat": 43.2270223,
+    "long": -71.4466663,
+    "fov": 50,
+    "heading": 123.04,
+    "pitch": -1
+  },
+  {
+    "id": 9,
+    "date": "Sept. 2011 – May 2012",
+    "city": "Durham, N.H.",
+    "lat": 43.1450154,
+    "long": -70.9353086,
+    "fov": 80,
+    "heading": 250.39,
+    "pitch": -10
+  },
+  {
+    "id": 10,
+    "date": "June 2012 – Aug. 2012",
+    "city": "Somerville, Mass.",
+    "lat": 42.3995211,
+    "long": -71.1171057,
+    "fov": 72,
+    "heading": 281.2,
+    "pitch": 5
+  },
+  {
+    "id": 11,
+    "date": "Sept. 2012 – Dec. 2012",
+    "city": "Durham, N.H.",
+    "lat": 43.1432192,
+    "long": -70.9361967,
+    "fov": 80,
+    "heading": 306.53,
+    "pitch": -10
+  },
+  {
+    "id": 12,
+    "date": "Jan. 2013 – April 2013",
+    "city": "New York",
+    "lat": 40.7094769,
+    "long": -74.017899,
+    "fov": 95,
+    "heading": 352.55,
+    "pitch": 0
+  },
+  {
+    "id": 13,
+    "date": "May 2013 – Aug. 2014",
+    "city": "Brooklyn, New York",
+    "lat": 40.715109,
+    "long": -73.9627999,
+    "fov": 95,
+    "heading": 70.24,
+    "pitch": 0
+  },
+  {
+    "id": 14,
+    "date": "Sept. 2014 – June 2015",
+    "city": "Brooklyn, New York",
+    "lat": 40.687397,
+    "long": -73.995732,
+    "fov": 95,
+    "heading": 174.16,
+    "pitch": 5
+  },
+  {
+    "id": 15,
+    "date": "July 2015 – Dec. 2015",
+    "city": "Hong Kong",
+    "lat": 22.2867814,
+    "long": 114.1364604,
+    "fov": 100,
+    "heading": 19.67,
+    "pitch": 25
+  },
+  {
+    "id": 16,
+    "date": "Jan. 2016 – Present",
+    "city": "Brooklyn, New York",
+    "lat": 40.687397,
+    "long": -73.995732,
+    "fov": 95,
+    "heading": 174.16,
+    "pitch": 5
+  }
+]

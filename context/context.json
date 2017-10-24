@@ -168,5 +168,15 @@
     "fov": 95,
     "heading": 174.16,
     "pitch": 5
+  },
+  {
+    "id": 17,
+    "date": "July 2017 – Present",
+    "city": "Brooklyn, N.Y.",
+    "lat": 40.679992,
+    "long": -73.999229,
+    "fov": 75,
+    "heading": 178.16,
+    "pitch": 5
   }
 ]

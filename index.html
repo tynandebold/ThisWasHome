@@ -1,56 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>ThisWasHome</title>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <head>
+    <meta charset="UTF-8" />
+    <title>ThisWasHome</title>
+    <link
+      rel="shortcut icon"
+      type="image/x-icon"
+      href="https://tynandebold.com/assets/dev/favicon.ico"
+    />
 
-  <meta name="description" content="This application, driven by a JSON file, uses the Google Street View Image API to chronologically locate and photograph every residence I've occupied since the beginning of my existence. Repeat locations are included to insure no gaps in time.">
-	<meta name="keywords" content="tynan debold, tynandebold, tynan, debold, developer, interactive developer, data visualization, data viz, dataviz, front-end developer, google, google street view, google street view image api, json, photography, travel">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="This application, driven by a JSON file, uses the Google Street View Image API to chronologically locate and photograph every residence I've occupied since the beginning of my existence. Repeat locations are included to insure no gaps in time."
+    />
+    <meta
+      name="keywords"
+      content="tynan debold, tynandebold, tynan, debold, developer, interactive developer, data visualization, data viz, dataviz, front-end developer, google, google street view, google street view image api, json, photography, travel"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Amiri" rel="stylesheet">
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/skeleton.css">
-  <link rel="stylesheet" href="css/main.css">
-</head>
-<body>
-
-  <div class="container">
-    <div class="row">
-      <div class="twelve columns">
-        <div class="header">
-          <h3>ThisWasHome.</h3>
-          <h5>Every place I've ever lived for >= 3 months.</h5>
-          <a class="button" href="#about">About</a>
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Amiri"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/skeleton.css" />
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="twelve columns">
+          <div class="header">
+            <h3>ThisWasHome.</h3>
+            <h5>Every place I've ever lived for >= 3 months.</h5>
+            <a class="button" href="#about">About</a>
+          </div>
         </div>
       </div>
     </div>
-  </div>
 
-  <div class="container">
-    <div id="places-1" class="row"></div>
-    <div id="places-2" class="row"></div>
-    <div id="places-3" class="row"></div>
-    <div id="places-4" class="row"></div>
-    <div id="places-5" class="row"></div>
-    <div id="places-6" class="row"></div>
-  </div>
+    <div class="container">
+      <div id="places-1" class="row"></div>
+      <div id="places-2" class="row"></div>
+      <div id="places-3" class="row"></div>
+      <div id="places-4" class="row"></div>
+      <div id="places-5" class="row"></div>
+      <div id="places-6" class="row"></div>
+      <div id="places-7" class="row"></div>
+    </div>
 
-  <div class="container about-container">
-    <div class="row">
-      <div class="eight columns">
-        <div id="about" class="header">
-          <h6>About</h6>
+    <div class="container about-container">
+      <div class="row">
+        <div class="eight columns">
+          <div id="about" class="header">
+            <h6>About</h6>
+          </div>
+          <p>
+            This application, driven by a JSON file, uses the Google Street View
+            Image API to chronologically locate and photograph every residence
+            I've occupied since the beginning of my existence. Repeat locations
+            are included to insure no gaps in time.
+          </p>
+          <p>
+            Created by
+            <a href="https://www.tynandebold.com/" target="_blank"
+              >Tynan DeBold</a
+            >.
+          </p>
         </div>
-        <p>This application, driven by a JSON file, uses the Google Street View Image API to chronologically locate and photograph every residence I've occupied since the beginning of my existence. Repeat locations are included to insure no gaps in time.</p>
-        <p>Created by <a href="http://www.tynandebold.com/" target="_blank">Tynan DeBold</a>.</p>
       </div>
     </div>
-  </div>
 
-  <script src="libs/jquery.min.js"></script>
-  <script src="js/app.js"></script>
-</body>
+    <script src="libs/jquery.min.js"></script>
+    <script src="js/app.js"></script>
+  </body>
 </html>
